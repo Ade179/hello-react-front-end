@@ -19,9 +19,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Hello Rails Backend <a name="about-project"></a>
+# 📖 Hello React Frontend <a name="about-project"></a>
 
-The project is an exercise to builde a simple API with 1 endpoint using Rails that generates random greetings..
+The project is an exercise to build a simple front-end app that fetches random greetings from the backend API
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,8 +65,7 @@ In order to run this project you need:
 Clone this repository by using the command line :
 
 ```sh
-git clone https://github.com/Ade179/hello-rails-back-end.git
-
+git clone https://github.com/Ade179/hello-react-front-end.git
 ```
 
 ### Install
