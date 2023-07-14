@@ -30,8 +30,6 @@ The project is an exercise to build a simple front-end app that fetches random g
 <details>
   <summary>Language</summary>
   <ul>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
-    <li><a href="https://www.postgresql.org/">Postgresql</a></li>
     <li><a href="https://react.dev/">React</a></li>
     <li><a href="https://redux.js.org/">Redux</a></li>
   </ul>
@@ -66,6 +64,7 @@ Clone this repository by using the command line :
 
 ```sh
 git clone https://github.com/Ade179/hello-react-front-end.git
+cd hello-react-front-end
 ```
 
 ### Install
@@ -73,7 +72,7 @@ git clone https://github.com/Ade179/hello-react-front-end.git
 Install project dependencies by running:
 
 ```
-bundle install
+npm i
 ```
 
 ### Usage
@@ -81,19 +80,9 @@ bundle install
 To run the project server, execute the following command:
 
 ```
-rails s
-
-   OR
-
-./bin/dev
+npm run start
 ```
 
-NB: You need to create an `env` file for your database credentials
-your env file should contain the following
-```
-DATABASE_USERNAME=
-DATABASE_PASSWORD=
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +102,7 @@ DATABASE_PASSWORD=
 
 - **Add more greetings**
 - **Implement more functionalities**
-- **Add API documentation**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
