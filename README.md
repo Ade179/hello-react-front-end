@@ -41,7 +41,7 @@ The project is an exercise to build a simple front-end app that fetches random g
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Frontend app
+## Go To Backend
 
 Click [here](https://github.com/Ade179/hello-rails-back-end) to access the backend app built with rails
 
