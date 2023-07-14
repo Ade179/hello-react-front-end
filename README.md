@@ -57,8 +57,8 @@ To get a local copy up and running follow these simple example steps.
 
 In order to run this project you need:
 
-- Install ruby on your computer or run it with docker
-- Have rails installed on your computer
+- Install node on your computer
+- check node version with node -v
 
 ### Setup
 
