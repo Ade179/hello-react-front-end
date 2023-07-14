@@ -110,7 +110,7 @@ npm run start
 
 Contributions, issues, and feature requests are welcome!
 
-feel free to check the [issue page]
+feel free to check the [issue page](https://github.com/Ade179/hello-react-front-end/issues)
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project kindly give it a star.
